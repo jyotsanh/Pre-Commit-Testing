@@ -4,3 +4,7 @@ def test_always_passes():
 
 def test_always_fails():
     assert False, "working fine"
+
+
+def test_looks_great():
+    assert True
